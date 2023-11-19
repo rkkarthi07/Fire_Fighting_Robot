@@ -2,6 +2,9 @@
 
 Welcome to the Flame Fighting Robot project repository! This project utilizes Arduino to create a robot capable of detecting flames using a flame sensor, moving with a motor driver, and deploying a fire-extinguishing mechanism using a pump controlled by a relay. Additionally, it features a GSM 800L module for call or SMS services.
 
+## Demo
+![Fire fighter](firefighter.mp4)
+
 ## Project Overview
 
 This project aims to build a firefighting robot that can autonomously detect and extinguish flames. The main components used in this project include:
@@ -11,7 +14,7 @@ This project aims to build a firefighting robot that can autonomously detect and
 - Relay: To control the water pump for extinguishing flames.
 - GSM 800L module: For communication via calls or SMS.
 
-## Getting Started
+## Circuit Diagram
 
 ![circuit_diagram](circuit_diagram.jpg)
 
